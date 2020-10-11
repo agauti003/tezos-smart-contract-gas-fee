@@ -1,8 +1,6 @@
 
-# tezos-smart-contract-gas-fee
 # Calculator to calculate tezos smart contract gas fee
-### Examples of use :
-### Estimate a transfer operation :
+### Examples of use, Estimate a transfer operation :
 ### Assuming that provider and signer are already configured...
 ```
 const amount = 2;
